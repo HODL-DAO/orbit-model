@@ -1,5 +1,10 @@
 [![Diagram of circles orbiting a center](images/orbit-model-canvas.png)](https://res.cloudinary.com/dzello/image/upload/v1601328377/orbit/orbit-model-canvas.png)
 
+# @HODL_DAO proposed changes to this model.
+
+> We want to measure the difference in circles of cryptographic trust within a PGP style WoT; wherein, any self sovereign actor might 
+
+
 # Welcome to the Orbit Model
 
 The Orbit Model is a framework for building high gravity communities. A high gravity community is one that excels at attracting and retaining members by providing an outstanding member experience.
